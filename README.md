@@ -1,3 +1,3 @@
 # CS361Test
 
-test commit
+test commit for class
